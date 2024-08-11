@@ -1,0 +1,62 @@
+
+
+.desc{
+    text-transform: capitalize;
+    
+}
+
+.header{
+    margin-top: 119px;
+    padding: 30px;
+}
+
+.BUTTON{
+    margin-left: 35%;
+}
+
+.text-start{
+    margin-left:10%
+}
+
+.text-primary{
+    margin-left: 32%;
+    text-transform: uppercase;
+}
+
+.navbar-nav{
+    font-size:18px;
+}
+
+@media (max-width: 1200px) {
+    .text-primary{
+        margin-left: 0px;
+    }
+}
+
+@media (max-width: 768px) {
+    .header{
+        margin-left: -5%;
+       
+    }
+    .BUTTON{
+        margin-left: 32%;
+    }
+}
+
+.card-img-top{
+    width: 250px;
+}
+
+.shopping{
+    width: 220px;
+}
+
+#contact{
+    padding: 10px;
+    padding-bottom: 20px;
+    margin-top: 20px;
+}
+
+.list-group-item{
+    padding: 25px;
+}
